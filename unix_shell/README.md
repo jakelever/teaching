@@ -2,6 +2,8 @@
 
 This is the introductory lesson to the Unix Shell. It is estimated to take X hours.
 
+The basic syllabus is based on the Software Carpentry [Unix Shell Lesson](https://swcarpentry.github.io/shell-novice/)
+
 ## Requirements
 
 - A Bash environment
@@ -20,3 +22,11 @@ If you haven't already, download the forensics files. Extract them to your Deskt
 
 ## Part 1:
 
+## Basic Syllabus from Software Carpentry
+- Introducing the Shell
+- Navigating Files and Directories
+- Working with Files and Directories
+- Pipes and Filters
+- Loops
+- Shell Scripts
+- Finding Things
