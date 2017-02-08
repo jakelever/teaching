@@ -1,6 +1,6 @@
-# Bash
+# Unix Shell
 
-This is the introductory lesson to Bash. It is estimated to take X hours.
+This is the introductory lesson to the Unix Shell. It is estimated to take X hours.
 
 ## Requirements
 
