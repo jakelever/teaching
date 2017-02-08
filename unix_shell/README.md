@@ -20,7 +20,15 @@ Using Bash, you are going to solve this mystery.
 
 If you haven't already, download the forensics files. Extract them to your Desktop and open a terminal window.
 
-## Part 1:
+## Plan
+- cd, ls & cat - moving around and reading READMEs to find appropriate files
+- cp, mv, mkdir & rm - ???
+- sh - do it early (let's create silly scripts with idiot requirements like they need the file to be in the same directory, and they need the analysis folder to be deleted, or they need a folder created)
+- wc & sort - find who he emailed the most
+- shell script - ???
+- grep - find a password
+- for loop - iterate over encrypted attachments
+- find - a specific email or attachment
 
 ## Basic Syllabus from Software Carpentry
 - Introducing the Shell
