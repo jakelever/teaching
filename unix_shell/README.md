@@ -2,7 +2,7 @@
 
 This is the introductory lesson to the Unix Shell. It is estimated to take X hours.
 
-The basic syllabus is based on the Software Carpentry [Unix Shell Lesson](https://swcarpentry.github.io/shell-novice/)
+The basic syllabus is based on the [Software Carpentry](https://software-carpentry.org) [Unix Shell Lesson](https://swcarpentry.github.io/shell-novice/)
 
 ## Requirements
 
