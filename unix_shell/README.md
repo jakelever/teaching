@@ -38,3 +38,35 @@ If you haven't already, download the forensics files. Extract them to your Deskt
 - Loops
 - Shell Scripts
 - Finding Things
+
+## Format Idea
+
+There should be ~4 lessons. Each one with a brief introduction (speaking/doing) that goes through a basic example of the problem. Then there is the main problem to be solved (with assistance from helpers). And then there are bonus points (harder problems) for those that are fast.
+
+## Chapter Plans
+- Chapter 1: Last words
+  - Tools: cd, ls, cat & find
+  - Example Problem: Read the root README
+  - Actual ProblemRead any emails sent on the day he disappeared
+  - Result: It'll mention banking issues and a project? name: GIBSON
+  - Advanced Problem: ???
+- Chapter 2: Banking issues
+  - Tools: sh, mkdir, rm, cp and mv
+  - Example Problem: Run script that adds up banks statements and spits out summary
+  - Actual Problem: Need to do it for separate months. Requires deleting analysis directory and moving data around
+  - Result: We find that he had received substantial payments starting on a specific date
+  - Advanced Problem: ???
+- Chapter 3: Informant
+  - Tools: wc, sort, head & tail (uniq?)
+  - Example Problem: wc, sort and tail to find who he emailed the most
+  - Actual Problem: wc, sort and tail to find who emailed him the most (too similar)
+  - Result: We find out that he sends a lot of emails to one person in particular (but they're all encrypted)
+  - Advanced Problem: ???
+- Chapter 4: Encrypted communications
+  - Tools: grep, for loop, find again
+  - Example Problem: Find pet's name in emails and try decrypting
+  - Actual Problem: Find other passwords in emails and decrypt something else
+  - Result: We find out where has gone
+  - Advanced: Use find to get the email from the day that the payments started and decrypted it.
+
+  
