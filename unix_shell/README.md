@@ -45,7 +45,7 @@ There should be ~4 lessons. Each one with a brief introduction (speaking/doing) 
 
 ## Chapter Plans
 - Chapter 1: Last words
-  - Tools: cd, ls, cat & find
+  - Tools: cd, ls, cat & find (and introduce up/down arrows and history)
   - Example Problem: Read the root README
   - Actual ProblemRead any emails sent on the day he disappeared
   - Result: It'll mention banking issues and a project? name: GIBSON
@@ -57,7 +57,7 @@ There should be ~4 lessons. Each one with a brief introduction (speaking/doing) 
   - Result: We find that he had received substantial payments starting on a specific date
   - Advanced Problem: ???
 - Chapter 3: Informant
-  - Tools: wc, sort, head & tail (uniq?)
+  - Tools: wc, sort, head & tail (cut, uniq?)
   - Example Problem: wc, sort and tail to find who he emailed the most
   - Actual Problem: wc, sort and tail to find who emailed him the most (too similar)
   - Result: We find out that he sends a lot of emails to one person in particular (but they're all encrypted)
@@ -68,6 +68,24 @@ There should be ~4 lessons. Each one with a brief introduction (speaking/doing) 
   - Actual Problem: Find other passwords in emails and decrypt something else
   - Result: We find out where has gone
   - Advanced: Use find to get the email from the day that the payments started and decrypted it.
+
+Extra things that aren't covered yet: scripting, echo
+
+## Advanced Topics
+
+Here's a list of advanced things that could be covered in additional chapters or should be linked to.
+
+- variables
+- if statements
+- while loops for reading a file line by line
+- cut, uniq
+- symlinks
+- awk
+- regular expressions
+- kill
+- diff
+- screen/tmux
+
 
 ## Hidden Answer example
 
