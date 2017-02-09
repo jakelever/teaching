@@ -69,4 +69,9 @@ There should be ~4 lessons. Each one with a brief introduction (speaking/doing) 
   - Result: We find out where has gone
   - Advanced: Use find to get the email from the day that the payments started and decrypted it.
 
-  
+## Hidden Answer example
+
+<details> 
+  <summary>Q1: What is the answer to the question? </summary>
+   42
+</details>
