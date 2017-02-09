@@ -47,7 +47,7 @@ There should be ~4 lessons. Each one with a brief introduction (speaking/doing) 
 - Chapter 1: Last words
   - Tools: cd, ls, cat & find (and introduce up/down arrows and history)
   - Example Problem: Read the root README
-  - Actual ProblemRead any emails sent on the day he disappeared
+  - Actual Problem: Read any emails sent on the day he disappeared
   - Result: It'll mention banking issues and a project? name: GIBSON
   - Advanced Problem: ???
 - Chapter 2: Banking issues
